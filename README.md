@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá pessoas bonita que está lendo isso
+Olá pessoas bonita que está lendo isso. Bom dia!
