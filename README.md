@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Olá pessoas bonita que está lendo isso. Bom dia!
+![image](https://github.com/RichardSardisco/RichardSardisco/assets/138728280/ba355a5d-34d1-4046-a808-f2c44a7bfde3)
